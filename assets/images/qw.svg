@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>logo_drive_round_48dp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-5.6%" y="-2.8%" width="111.1%" height="111.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.20105865 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-2" points="0.645 13.5 0.75 0 40.5 0 32.355 13.5"></polygon>
+        <polygon id="path-4" points="16.035 0 27.99 7.005 8.145 42 0.105 28.005"></polygon>
+        <linearGradient x1="23.8700565%" y1="49.8555556%" x2="97.7589454%" y2="103.633333%" id="linearGradient-6">
+            <stop stop-color="#263238" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#263238" stop-opacity="0.02" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="0.146892655%" cy="-0.192857143%" fx="0.146892655%" fy="-0.192857143%" r="203.182674%" gradientTransform="translate(0.001469,-0.001929),scale(1.000000,0.379286),translate(-0.001469,0.001929)" id="radialGradient-7">
+            <stop stop-color="#263238" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#263238" stop-opacity="0.02" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="15.1879477%" cy="15.2154614%" fx="15.1879477%" fy="15.2154614%" r="108.370455%" id="radialGradient-8">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Split-Download-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Split-View-8.9.17-1440px-" transform="translate(-684.000000, -724.000000)">
+            <g id="Group-9" transform="translate(91.000000, 721.000000)">
+                <g id="logo_drive_round_48dp" filter="url(#filter-1)" transform="translate(592.000000, 0.000000)">
+                    <polygon id="Shape" points="0 0 72 0 72 72 0 72"></polygon>
+                    <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="36" cy="36" r="33"></circle>
+                    <path d="M36,3.345 C54.165,3.345 68.91,18.03 69,36.18 L69,36.015 C69,17.79 54.225,3.015 36,3.015 C17.775,3.015 3,17.775 3,36 L3,36.165 C3.09,18.03 17.835,3.345 36,3.345 Z" id="Shape" fill-opacity="0.2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M69,35.835 C68.91,53.985 54.165,68.67 36,68.67 C17.835,68.67 3.09,53.985 3,35.835 L3,36 C3,54.225 17.775,69 36,69 C54.225,69 69,54.225 69,36 L69,35.835 Z" id="Shape" fill-opacity="0.2" fill="#263238" fill-rule="nonzero"></path>
+                    <circle id="Oval" cx="36" cy="36" r="33"></circle>
+                    <polygon id="Shape" fill="#4285F4" fill-rule="nonzero" points="20.145 54 20.25 40.5 60 40.5 51.855 54"></polygon>
+                    <g id="Clipped" transform="translate(19.500000, 40.500000)">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <g id="a"></g>
+                        <g id="Group" mask="url(#mask-3)">
+                            <g transform="translate(-10.500000, -31.500000)">
+                                <image id="Bitmap" fill="none" opacity="0.2" x="0.063" y="0.063" width="34.5" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAhCAYAAADDAmudAAAABGdBTUEAA1teXP8meAAAA4lJREFUSA29Vs9rU0EQntn3nm2hscaSqvFXLBoL7UEI9KJCxUNR1JPoyZv+H/1vBL0V0aNFrEI1B7EF7aFGsQS0UmuwtHnJjt+8pvW5eS9NUVwYstmd+b7Z2Zl5y9T94OFSaX/geQd9z1vrrddr5XK5AXPpBOF12ozvlUqlIDQ9RWrSFWlSvi7sDx49XC/k82G1Wk0l6ZJgyuRyHwebxl4A6U3IRTI8TOQFDTF8qHBi4+vnu5tEM21E3RDwyPj6QUt8Eda3AD4OKUBOQs4Kc8E2ePNobunbsWNDdfc0uxJoaOpNM2IN3wHgZYR8kIh9zPsgOchxSNYasSGO5Z5mNwLO5PNZw/55Er4GoEILHFNiCOylj5gP43RFIZzG8kbu+OKXleXlDVXqSBBdrPVGEIbb0NXQ9EMUODZY//dCcBrOM+P22b4fLRZXKpWKNTFNd8o1ogE2ZhQ2o9gcgDjgOya6jrCJTyJ/6KQSwHs44hUs0SUhKWwB7AAmTRpM/JGZn4XWfp6ZmWmqUgrBlAnDniyzGevCe8XR9FwTlgWxdiGDeWstkQBp+Tgb+nLeMt2AEfJdj99xqPcVePtUTLPSqvDIoO0EGhoJ6VST5Qb8QvbIAWj+EVeHKtV71XMJ4hc7hv0ssF0dB59SvW8j2PvFCnKAVhHGeTf2217EvYt7v1taqj3qir8jeLOe8DQH9CEe+zaCvXuP0AgvGaHpoMGz7+aurkak28it39YJ/iItxc4HwSbApzRcbUMJ/mlaugxmYmLCM9Y7gW54/V+kZRtBrVZjFNR+5Lv2d+T836VlG0G0EDWoCLhTQUF197RMJkCPbRlrVaaNrtLSNTaZTEaQaj9g/QmbPyBpJF2lpUvg4aMg2SOHQkPePsS/CIUhiPshUtJVLSpE6VGfH1aq1ftRO3YB3f+apqLtVUtdSz4C2op1XLdjv4kruvOo0LTEtdS15CMvtQX8DpV6n9jrXbCk/zuhWFm+t5nH00NfBwjVGShvh0q9f2+YHgg3Xs2Xyz+TgNLWohNsbU5ZLXlB6euXCWtryFl9GnbslmnA2+s7J9AFfTTpcxAXHuDTfRpLuv8CJ3poAnnz9vXrPXmvmO6nMLrwdaK3SNZZ3Ec/3kNPrPjPF+cm0dDm0lJYsRJHUuXyuXMTA+u8flLE53198mnh5SQuPblbJqLGFpMIdJu1Ceqk9fzYs+dq+1/GL8Xvz0qFUggYAAAAAElFTkSuQmCC"></image>
+                                <polygon id="Shape" fill="#0F9D58" fill-rule="nonzero" points="19.035 3 30.99 10.005 11.145 45 3.105 31.005"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                    <polygon id="Shape" fill-opacity="0.2" fill="#FFFFFF" fill-rule="nonzero" points="60 40.5 27.795 40.5 27.69 40.695 59.625 40.695"></polygon>
+                    <polygon id="Shape" fill-opacity="0.1" fill="#263238" fill-rule="nonzero" points="20.145 54 20.4 54 27.915 40.695 27.795 40.5"></polygon>
+                    <polygon id="Shape" fill-opacity="0.2" fill="#263238" fill-rule="nonzero" points="59.625 40.695 51.735 53.745 20.295 53.745 20.145 54 51.855 54 60 40.5"></polygon>
+                    <polygon id="Shape" fill="#0F9D58" fill-rule="nonzero" points="28.035 12 39.99 19.005 20.145 54 12.105 40.005"></polygon>
+                    <g id="Clipped" transform="translate(12.000000, 12.000000)">
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <g id="c"></g>
+                        <g id="Group" mask="url(#mask-5)">
+                            <g transform="translate(13.500000, -3.000000)">
+                                <image id="Bitmap" fill="none" opacity="0.2" x="0.063" y="0.063" width="39" height="36" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAZCAYAAADAHFVeAAAABGdBTUEAA1teXP8meAAAAl9JREFUSA29Vv9qE0EQntnkmlaJIfYHadKWCBqQVCj4AnkS//M9+iw+Sf7yv2BRC1JBQiEeaEKJwdrcJTt+k5hybe/2crG6MLnszO5+8+3sd3tM88atVis3Go34T9/5KBaL0m63pxgkzoG3gro4Hx21Sj+9oC4TKeVz4gScTFk4z8OH4Vr35KQ9zAKojPJfLy+bNDWvMPGFWPKMuZVSpCtCU2b+aEjePKDwQ6fTCSNh59+8Rj0RnhCV8Dhklk0s6GI3EZFH4P9uRHSO6QPYUtuZ63a7Ut7dnRjKFbCjzzGxoviwXIJpggWAhWz5rF6rfPd938KX2nTDpEg0FGtPheUU/bQ6KOsSKtdkY5pgV0LftRMIz5tmT8hMNmuVAOzAiBtw7cBmMY3HNE0yM7vFUVidHZvDMCyUiY4Xa8XkNnddZ78SO6YN1G5dDF1s7Z996/d6V4lICFyD6aB6tRoGlo0YfoLuAWwDllQP+EUP1RYADU3lc9phuQGWnR1rImtMOC6Gu2Oy5wPf/wVfbLsBpiMi7Oro7iN7sJstquG4tvRhuQOm7LYPamNjzRW2pwwc1d06zLGd5IEdCuBmdwdMU+/3Xo+r218G1uDlRfwMrnuRQiwYUVv29naCAJVY/rCks0sA+zdCdwnx3oWeyExrl10K0JtD6E4wBcwoBafQU8GySyFZ6Klgyi4qBdyST+F6rH40vcfiDMM4jy0NPEOfmo1GH/emnd3Us2nOn2PreS8vQvLeQ7xvcVP/QP6JiVpVp5EQiMMQV/9i6aS3wiIeff71h1EWMAX+L598UYYr//8Ni8lr0EcD5rEAAAAASUVORK5CYII="></image>
+                                <polygon id="Shape" fill="#FFCD40" fill-rule="nonzero" points="18.465 3 2.535 3 18.51 31.62 34.5 31.62"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                    <polygon id="Shape" fill-opacity="0.2" fill="#FFFFFF" fill-rule="nonzero" points="28.035 12 12.105 40.005 12.345 40.005 28.155 12.225"></polygon>
+                    <polygon id="Shape" fill-opacity="0.2" fill="#263238" fill-rule="nonzero" points="35.88 25.83 20.145 53.565 12.345 40.005 12.105 40.005 20.145 54 36 26.055"></polygon>
+                    <polygon id="Shape" fill-opacity="0.1" fill="#263238" fill-rule="nonzero" points="36 26.055 28.035 12 28.155 12.66 35.88 26.265"></polygon>
+                    <polygon id="Shape" fill="#FFCD40" fill-rule="nonzero" points="43.965 12 28.035 12 44.01 40.5 60 40.5"></polygon>
+                    <polygon id="Shape" fill-opacity="0.25" fill="#FFFFFF" fill-rule="nonzero" points="43.965 12 28.035 12 28.17 12.255 43.86 12.255"></polygon>
+                    <polygon id="Shape" fill-opacity="0.05" fill="#3E2723" fill-rule="nonzero" points="43.965 12 43.86 12.255 59.745 40.5 60 40.5"></polygon>
+                    <polygon id="Shape" fill="url(#linearGradient-6)" fill-rule="nonzero" points="27.81 40.5 20.145 54 36.075 53.88"></polygon>
+                    <polygon id="Shape" fill="url(#radialGradient-7)" fill-rule="nonzero" points="28.035 12 32.07 33 36 26.055"></polygon>
+                    <circle id="Oval" fill-opacity="0.1" fill="url(#radialGradient-8)" fill-rule="nonzero" cx="36" cy="36" r="33"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
